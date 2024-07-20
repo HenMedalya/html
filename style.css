@@ -1,0 +1,79 @@
+body {
+  background-image: linear-gradient(to right, #556B2F, #384535);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+table {
+  margin: auto;
+}
+
+h1 {
+  background: linear-gradient(45deg, #f0932b 0%, #f0d825 100%);
+  color: white;
+  text-shadow: 2px 2px 4px black;
+}
+
+h2 {
+  color: yellow;
+  text-shadow: 2px 2px 4px #000000;
+}
+
+h3 {
+  color: yellow;
+  text-shadow: 2px 2px 4px #000000;
+}
+
+a {
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2); 
+  text-decoration: none; 
+  padding: 5px 10px; 
+}
+
+a {
+  color:yellow
+}
+
+
+img {
+  border-radius: 50%;
+}
+
+hr {
+  border: 1px solid #ccc;
+  margin: 20px 0;
+}
+
+
+li::marker {
+  color: yellow;
+}
+
+table td, table th {
+  text-align: center;
+}
+
+img {
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+}
+
+p {
+  font-family: Comic Sans MS;
+}
+
+h1 {
+  font-family: Comic Sans MS;
+}
+
+h2 {
+  font-family: Comic Sans MS;
+}
+
+h3 {
+  font-family: Comic Sans MS;
+}
+
+ul {
+  font-family: Comic Sans MS;
+}
