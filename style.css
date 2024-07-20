@@ -77,3 +77,8 @@ h3 {
 ul {
   font-family: Comic Sans MS;
 }
+
+table {
+  width: 100%;
+  box-sizing: border-box;
+}
